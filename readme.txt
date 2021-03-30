@@ -1,7 +1,7 @@
 CSC 412 Fall 2019 Programming Assignment 2
 
 Naive Bayes Classification
-D
+
 
 Programming language: Python (preferred), Java, C/C++, or any other advanced programming 
 languages.
